@@ -10,7 +10,7 @@ $ git add .
 ## commit changes
 $ git commit -m “<comment what is done>”
 
-## pull all from remote repo
+## Pull all from remote repository
 $ git pull
 
 ## BRANCH
